@@ -1,5 +1,4 @@
 #Dunia Jaser 1201345
-#Raneem Daqa 1202093
 dictionary=$1
 word=$2
 compressedFile=$3
