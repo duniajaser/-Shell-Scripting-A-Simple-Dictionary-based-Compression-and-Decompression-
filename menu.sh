@@ -1,5 +1,5 @@
 #Dunia Jaser 1201345
-#Raneem Daqa 1202093
+
 if [ "$#" -ne 1 ]
 then 
 	echo "There is a problem in menu!"
