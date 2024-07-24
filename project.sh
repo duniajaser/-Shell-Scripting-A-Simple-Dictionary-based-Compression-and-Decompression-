@@ -1,5 +1,5 @@
 #Dunia Jaser 1201345
-#Raneem Daqa 1202093
+
 echo "-----------------------------------------------------"
 echo "Does the dictionary file exist or not? (yes/no)"
 read answer
